@@ -47,7 +47,7 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5); /* Тень под авой */
     transition: box-shadow 0.3s ease;
     margin-bottom: 15px; /* Добавил отступ, чтобы текст был под авой */
-    margin-left: 43px; /* Сдвигаем аватарку вправо на 45 пикселей */
+    margin-left: 45px; /* Сдвигаем аватарку вправо на 45 пикселей */
 }
 
 .avatar img:hover {
